@@ -18,7 +18,7 @@ Retention offers cost money, so they should go to the customers most likely to l
 
 ## Results
 
-| Model (5-fold CV, training data) | ROC-AUC |
+| Model (5-fold CV, training data) | ROC-AUC (mean +/- std across folds) |
 |---|---|
 | Always predict "no churn" | 0.500 |
 | Logistic regression | 0.846 +/- 0.014 |
